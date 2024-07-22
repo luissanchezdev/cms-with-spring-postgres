@@ -1,4 +1,4 @@
-package com.luissdev.apifull;
+package com.luissdev.cmsspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
